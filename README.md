@@ -1,2 +1,3 @@
-# livability-equity-canada
-Assessing equity in livability across Canadian cities.
+# Urban Livability Across Canadian Cities: Who Benefits?
+
+The objective of this srudy is to employ a data driven approach to assess equity in liveability within six major Canadian metropolitan areas: greater Vancouver, greater Montreal, greater Toronto, greater Ottawa, greater Calgary, and greater Edmonton. In order to do so, pedestrian accessibility to seven distinct categories of urban amenities ("mobility", "active living", "nightlife", "food choices", "community space", "education", "health wellbeing") is measured for each metropolitan area. In addition, we combine Canadian census data with modern machine learning techniques to extract “social profiles” of canadian populations that exist within each metropolitan area. Finally, we assess equity in urban livability by comparing pedestrian accessibility to urban amenities between social groups.
